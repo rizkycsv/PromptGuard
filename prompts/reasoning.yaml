@@ -1,0 +1,12 @@
+- id: complex_reasoning_v1
+  prompt: "If all A are B, and no B are C, are all A necessarily not C? Explain your reasoning."
+  expected:
+    intent: "logical_deduction"
+    keywords:
+      - "syllogism"
+      - "deduction"
+      - "logic"
+    required_phrases:
+      - "all A are B"
+      - "no B are C"
+      - "all A are not C"

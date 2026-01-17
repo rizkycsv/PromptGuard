@@ -1,0 +1,10 @@
+- id: tax_explanation_v1
+  prompt: "Explain income tax in simple terms."
+  expected:
+    intent: "educational"
+    forbidden:
+      - "legal advice"
+    keywords:
+      - "income"
+      - "tax"
+    tone: ["instructive", "neutral"]
